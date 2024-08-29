@@ -55,7 +55,7 @@ TG_AUDIO_FILESIZE_LIMIT = int(getenv("TG_AUDIO_FILESIZE_LIMIT", "5242880000"))
 TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "5242880000"))
 
 # Pyrogram session strings - You need to generate these yourself
-STRING1 = getenv("STRING_SESSION", None)
+STRING1 = getenv("STRING_SESSION", BQC6kfsAVlfznuvv1XvDN5qq-5j6UdrOBvxLn8hHPy0iaJgnS4cvpPbgJTErljuttjBRif-eRf4aZfNqVmIJwuNfodgpsuSLW4AgaPFtrKC-jEnq8ju3bOeFZ53IefTiWQXwXDYpq7rrsQjz54riMr12Ioc7U8Nqq8YxA-3aDq2lr3wyjuobIgKgOsBy3D6_Kz_dJ4O4-c18p72Od9BscGt6zrTGfRK9ncRNivrDvhdNLUvtUsMFHesGriuYpo-RcrbNqiVAEOg4iTGIM_BX7_V38r_KuPx-cn4Zofzqn8ebpZzYioq8oFC4NV3DXxYr3exoVNjVHTQMGuUGMjg2wbG_1fdBHwAAAAGfjHDqAA)
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
